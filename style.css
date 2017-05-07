@@ -1,0 +1,101 @@
+h1 { font-family: 'Montserrat', sans-serif;
+    padding-left: 112px ;
+    font-size: 40px ;
+     color: #E7E6F7 
+}
+
+h2 { font-family: 'Inconsolata', monospace;
+    font-size: 43px ;
+    color: #E7E6F7 ;
+    text-align: center ;
+}
+    
+    
+h3 { font-family: 'News Cycle', sans-serif;
+font-size: 45px;
+color: #E7E6F7
+}    
+
+p { 
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+    color: #E7E6F7 ;
+    text-align: justify ;
+}
+
+li {
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+    color: lightcoral
+}
+    
+    
+    
+.rightside {
+    width: 40.00%; 
+    height: 100%;
+    float: right ;
+    margin: 5px 5px ;
+}
+
+.leftside {
+    width: 40.00% ;
+    height: 100% ;
+    float: left ;
+    margin: 5px 5px
+}
+
+
+body background {
+height: 100% ;  
+width: 100%
+    
+}
+
+#profilepicture { 
+    width: 550px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+
+div {
+    width: 100px;
+    border: 100px #5A464C;
+    padding: 45px;
+
+}
+
+
+a:link, a:visited {
+    background-color: #D6BBC0;
+    color: #E7E6F7 ;
+    padding: 20px 20px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: #754F44;
+}
+
+
+.linkbox { 
+    padding:20px 20px  ;
+    text-align: center ;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#Gif {
+    Padding: 20px 0px 20px 0px
+}
+
+#Gif2 {
+    Padding: 20px 0px 30px 0px
+}
+
+
+
